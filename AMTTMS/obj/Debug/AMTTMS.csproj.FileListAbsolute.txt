@@ -1,0 +1,16 @@
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\obj\Debug\AMTTMS.AMTTMS_Regist.resources
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\Google.Protobuf.dll
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\MySql.Data.dll
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\MySql.Data.EntityFramework.dll
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\MySql.Web.dll
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\AMTTMS.exe.config
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\obj\Debug\AMTTMS.exe
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\obj\Debug\AMTTMS.pdb
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\AMTTMS.exe
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\bin\Debug\AMTTMS.pdb
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\obj\Debug\AMTTMS.csprojResolveAssemblyReference.cache
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\obj\Debug\AMTTMS.AMTTMS_Login.resources
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\obj\Debug\AMTTMS.Properties.Resources.resources
+E:\TANGHAO\个人项目\C#项目\AMTTMS\AMTTMS\obj\Debug\AMTTMS.csproj.GenerateResource.Cache
